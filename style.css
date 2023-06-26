@@ -1,0 +1,25 @@
+/* Reset the page to default */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 50%;
+    margin: 5% auto;
+    padding: 45px 0;
+    border: 1px solid black;
+}
+h1{
+    padding-left: 30px;
+}
+fieldset {
+    padding: 15px 40px;
+    margin: 33px;
+}
+p {
+    margin: 10px 0;
+}
+input[type="submit"] {
+    margin: 0 32px;
+}
